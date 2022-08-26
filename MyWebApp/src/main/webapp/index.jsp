@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> welcome to J&J</h2>
+	<h2> welcome to cognizant</h2>
   
 </body>
 </html>
